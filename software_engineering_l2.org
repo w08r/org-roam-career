@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       0C61AFCA-6E26-4ABA-A3E1-EB7273FF2A18
+:CATEGORY: SENG
+:LEVEL: 2
+:END:
+#+title: L2 Software Engineer
+
+* TODO Programming Styles
+
+* TODO Programming Patterns

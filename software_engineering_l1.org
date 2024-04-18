@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       0643A10E-CD83-427E-BB82-5788BCDDCAAD
+:ROAM-CAREER: t
+:CATEGORY: SENG
+:LEVEL: 1
+:END:
+#+title: L1 Software Engineer
+
+The entry level software engineer.
+
+Objectives for L1 are as follows:
+
+* TODO Simple Functions
+
+* TODO Basic development workflows
+
+* TODO Test development

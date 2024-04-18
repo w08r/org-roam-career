@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       DDC70FB2-4EA5-45FC-9C52-4903DD5DA118
+:END:
+#+title: Operations
+
+Operations concerns the reliable execution of software in a life
+environment.

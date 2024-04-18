@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ECC9EBCA-B113-429A-AEC0-CA086DC0C753
+:CATEGORY: SENG
+:END:
+#+title: Sofware Engineering
+
+Software engineering concerns the development of code to realise some
+requirement, usually fulfilling a business need.
+
+[[id:0643A10E-CD83-427E-BB82-5788BCDDCAAD][L1 Software Engineer]]
+
+[[id:0C61AFCA-6E26-4ABA-A3E1-EB7273FF2A18][L2 Software Engineer]]

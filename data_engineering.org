@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       B6302695-11B8-49D1-A21D-CCF0B536BF6C
+:CATEGORY: DENG
+:END:
+#+title: Data Engineering
+
+Data engineering concerns the management of data within an ecosystem.
+This includes, storage, schema management, movement, and processing.
+
+[[id:C40A00E6-13F0-4F1A-82C5-31C3F7D76016][L1 Data Engineer]]

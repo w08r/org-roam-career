@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       EA8FF0A9-DBB8-47B4-9702-6949F6B96894
+:END:
+#+title: Quality Assurance
+
+QA concerns the ensurance of quality standards within an IT project.
+

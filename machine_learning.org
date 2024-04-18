@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       55A873EC-4CEB-451F-BD64-8795B84DD50A
+:END:
+#+title: Machine Learning
+
+Machine learning concerns the generation of rules based on raw data.
+

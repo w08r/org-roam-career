@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       80B65D3E-F63C-400D-9CE3-387B3B10ADD9
+:END:
+#+title: Architecture
+
+Architecture concerns the design of computer systems such that they
+will fulfil the requirements in a robust and sustainable way.
+

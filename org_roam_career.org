@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       F12BC3F4-CE53-473A-BAE6-3A1C2FECE883
+:END:
+#+title: Org Roam Career
+
+This roam provides a career map, supporting intentional development
+and long term strategy.
+
+There are multiple pathways to walk during a career in IT.
+
+[[id:ECC9EBCA-B113-429A-AEC0-CA086DC0C753][Sofware Engineering]]
+
+[[id:B6302695-11B8-49D1-A21D-CCF0B536BF6C][Data Engineering]]
+
+[[id:EA8FF0A9-DBB8-47B4-9702-6949F6B96894][Quality Assurance]]
+
+[[id:55A873EC-4CEB-451F-BD64-8795B84DD50A][Machine Learning]]
+
+[[id:CC11E5F3-02EF-4A54-BABB-CF771A33CECC][Security]]
+
+[[id:DDC70FB2-4EA5-45FC-9C52-4903DD5DA118][Operations]]
+
+[[id:80B65D3E-F63C-400D-9CE3-387B3B10ADD9][Architecture]]
+
+[[id:3D3D0A01-8EF8-442E-801D-437A9E022F87][Product Management]]
+
+[[id:E71C88C0-7B70-4B58-8BC2-004F6A9BC66B][Project Management]]
+
+[[id:FD031F4D-322A-429C-B85E-A2B05D05C600][Team Leadership]]

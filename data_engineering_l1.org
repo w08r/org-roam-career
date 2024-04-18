@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       C40A00E6-13F0-4F1A-82C5-31C3F7D76016
+:CATEGORY: DENG
+:LEVEL: 1
+:END:
+#+title: L1 Data Engineer
+
+The entry level data engineer.
+
+Objectives for L1 are as follows:
+
+* TODO Basic SQL
+
+* TODO Basic pandas
