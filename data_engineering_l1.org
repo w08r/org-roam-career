@@ -9,6 +9,6 @@ The entry level data engineer.
 
 Objectives for L1 are as follows:
 
-* TODO Basic SQL
+* TODO L1 SQL
 
-* TODO Basic pandas
+* TODO L1 pandas

@@ -8,6 +8,8 @@ and long term strategy.
 
 There are multiple pathways to walk during a career in IT.
 
+See [[file:README.org::*The Org Roam Career Path][The Org Roam Career Path]] for usage instructions.
+
 [[id:ECC9EBCA-B113-429A-AEC0-CA086DC0C753][Sofware Engineering]]
 
 [[id:B6302695-11B8-49D1-A21D-CCF0B536BF6C][Data Engineering]]
@@ -27,3 +29,4 @@ There are multiple pathways to walk during a career in IT.
 [[id:E71C88C0-7B70-4B58-8BC2-004F6A9BC66B][Project Management]]
 
 [[id:FD031F4D-322A-429C-B85E-A2B05D05C600][Team Leadership]]
+
