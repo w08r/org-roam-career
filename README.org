@@ -1,2 +1,22 @@
-* The Org Roam Career Path
+* The Org Roam [Software Engineer] Career Path
+
+If you work with software in the IT industry in general, there are a
+multitude of paths you might take as you gain experience in different
+areas.  It's useful to be able to chart your journey, and to identify
+gaps so that you can make informed decisions about future steps along
+the way.
+
+The Org Roam [Software Engineer] Career Path project aims to support
+individual growth by providing supporting infrastructure for
+navigating your personal story.
+
+[[file:./demo.gif]]
+
+** What's Org Roam
+
+Org Roam is a knowledge management tool based loosely on tools such as
+[[https://roamresearch.com/][Roam Research]], [[https://zettelkasten.de/][Zettlekasten]], and other techniques that allow you to
+map knowledge using a growing set of linked notes.  Org Roam in
+particular runs using [[https://orgmode.org/][Org Mode]] which is a feature of [[https://www.gnu.org/software/emacs/][Emacs]], a
+completely free programmable text editor.
 
